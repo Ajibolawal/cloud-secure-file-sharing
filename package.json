@@ -1,0 +1,27 @@
+{
+  "name": "cloud-secure-file-sharing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ajibolawal/cloud-secure-file-sharing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ajibolawal/cloud-secure-file-sharing/issues"
+  },
+  "homepage": "https://github.com/Ajibolawal/cloud-secure-file-sharing#readme",
+  "dependencies": {
+    "@azure/storage-blob": "^12.26.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "multer": "^1.4.5-lts.1"
+  }
+}
